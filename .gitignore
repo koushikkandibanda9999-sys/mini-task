@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+.env
+backend/tasks.json
+backend/tests/test_db.json
+backend/tests/test_tasks_db.json
